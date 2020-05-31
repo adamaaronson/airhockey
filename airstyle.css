@@ -40,3 +40,15 @@ body {
 	font-size: 0.9em;
 	font-family: "Cabin", "sans-serif";
 }
+
+.homepage-link {
+	color: #AAA !important;
+}
+
+.homepage-link:hover {
+	color: #AAA !important;
+}
+
+.homepage-link:visited {
+	color: #AAA !important;
+}
